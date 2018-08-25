@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<CrashGUID>UE4CC-Windows-31A7F0A94B2887B8BAB61E9C1A7BE49E_0001</CrashGUID>
+<ProcessId>8788</ProcessId>
+<IsInternalBuild>0</IsInternalBuild>
+<IsPerforceBuild>0</IsPerforceBuild>
+<IsSourceDistribution>0</IsSourceDistribution>
+<IsEnsure>1</IsEnsure>
+<SecondsSinceStart>43</SecondsSinceStart>
+<GameName>UE4-MadMenSky</GameName>
+<ExecutableName>UE4Editor</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<PlatformName>Windows</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Editor</EngineMode>
+<DeploymentName></DeploymentName>
+<EngineVersion>4.12.5-3039270+++UE4+Release-4.12</EngineVersion>
+<CommandLine> </CommandLine>
+<LanguageLCID>9</LanguageLCID>
+<AppDefaultLocale>fr_CA</AppDefaultLocale>
+<IsUE4Release>1</IsUE4Release>
+<UserName></UserName>
+<BaseDir>C:/Program Files/Epic Games/4.12/Engine/Binaries/Win64/</BaseDir>
+<RootDir>C:/Program Files/Epic Games/4.12/</RootDir>
+<MachineId>F9BAF04C44BF7C113F1B51B473CE0700</MachineId>
+<EpicAccountId></EpicAccountId>
+<CallStack></CallStack>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<ErrorMessage>Ensure condition failed: Y != 0 [File:D:\Build\++UE4+Release-4.12+Compile\Sync\Engine\Source\Runtime\Core\Private\GenericPlatform\GenericPlatformMath.cpp] [Line: 79] &nl;FMath::FMod(X=-595.502197, Y=-nan(ind)) : Y is zero, this is invalid and would result in NaN!&nl;</ErrorMessage>
+<CrashDumpMode>0</CrashDumpMode>
+<CrashReporterMessage></CrashReporterMessage>
+<Misc.NumberOfCores>6</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>12</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>Intel(R) Core(TM) i7 CPU         970  @ 3.20GHz</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>NVIDIA GeForce GTX 460 </Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 7</Misc.OSVersionMajor>
+<Misc.OSVersionMinor>Service Pack 1</Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>12875587584</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>8796092891136</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>65536</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>12</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>6897790976</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>8794204205056</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>868290560</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>897011712</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>1202982912</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>1377452032</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<BuildIntegrityStatus>0</BuildIntegrityStatus>
+</PlatformProperties>
+</FGenericCrashContext>
