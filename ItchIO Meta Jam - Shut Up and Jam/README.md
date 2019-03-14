@@ -1,2 +1,2 @@
-# Bhavachakra
-This game has been made during the Global Game Jam 2016. It was made with a team of 2 other members. This is my first game jam using Unity, before even learning the basics in College.
+# Shut Up and Jam
+This game was made for Itch.IO's Meta Jam. At least, I attempted to do it, but never managed to finish it. This was made with Unity and used KenneyNL's public assets.
