@@ -1,0 +1,39 @@
+ID,ENGLISH,FRENCH
+CHARACTER_DESCRIPTION1,Has turned hacking a local coffee shop into a habit.,Pirate le système informatique d'une boulangerie pour s'amuser.
+CHARACTER_DESCRIPTION2,Would marry a dragon if it was possible.,Voudrait marier un dragon si c'étais possible.
+CHARACTER_DESCRIPTION3,Says he's a flat-earther just to piss people off.,Dit que la terre est plate juste pour enrager son entourage.
+CHARACTER_DESCRIPTION4,Can be easily bribed using chocolate.,Accepte de faire n'importe quoi pour du chocolat.
+CHARACTER_DESCRIPTION5,Does his best to turn any situation awkward.,Fait de son mieux pour créer un malaise.
+CHARACTER_DESCRIPTION6,Has the personality of a wooden plank with drawn angry eyebrows.,A la personalité d'une planche de bois avec des sourcis faché.
+CHARACTER_DESCRIPTION7,Has called foxes 'sexy' multiple times.,A dit plusieurs foix que les renards l'excite.
+CHARACTER_DESCRIPTION8,Believes his graphics card is sending data to the government.,Pense que sa carte graphique envoi des informations au gouvernement.
+CHARACTER_DESCRIPTION9,Will bring his body pillow to the game jam.,Apporte son oreiller d'animé japonais au game jam.
+CHARACTER_DESCRIPTION10,Judges the quality of a game from its age rating.,Juge la qualité des jeux par son age minimum.
+CHARACTER_PERSONALITY_OPTIMISTNAME,Optimist,Optimiste
+CHARACTER_PERSONALITY_OPTIMISTDESC,Team loses less morale whenever something bad happens.,Ton équipe perd moins de moral quand quelque chose arrive.
+CHARACTER_PERSONALITY_DIETINGNAME,Dieting,Diète
+CHARACTER_PERSONALITY_DIETINGDESC,Consumes less food.,Mange moins de nourriture.
+CHARACTER_PERSONALITY_GENUISNAME,Genius,Génie
+CHARACTER_PERSONALITY_GENUISDESC,Rare chance to double production output.,Petite chance de doubler sa production.
+CHARACTER_PERSONALITY_KEENEYEDNAME,Keen Eye,Porte Attention
+CHARACTER_PERSONALITY_KEENEYEDDESC,Rare chance to remove bugs during any production output.,Petite chance d'enlever des bugs durant sa production.
+CHARACTER_PERSONALITY_SMALLSLEEPNAME,Small Sleeper,Petit Dormeur
+CHARACTER_PERSONALITY_SMALLSLEEPDESC,Only needs half the sleep of a regular person.,A seulement besoin d'une demi nuit de someil.
+CHARACTER_PERSONALITY_FOCUSEDNAME,Focused,Concentré
+CHARACTER_PERSONALITY_FOCUSEDDESC,Takes less breaks.,Prend moins de pause.
+CHARACTER_PERSONALITY_LIGHTWEIGHTNAME,Lightweight,Poids Léger
+CHARACTER_PERSONALITY_LIGHTWEIGHTDESC,Gets more energy from drinks.,Reçois plus d'énergie des boissons.
+CHARACTER_PERSONALITY_PESSIMISTNAME,Pessimist,Pessimiste
+CHARACTER_PERSONALITY_PESSIMISTDESC,Team loses more morale whenever something bad happens.,Ton équipe perd plus de moral quand quelque chose arrive.
+CHARACTER_PERSONALITY_GLUTTONNAME,Glutton,Glouton
+CHARACTER_PERSONALITY_GLUTTONDESC,Consumes more food.,Mange plus de nourriture.
+CHARACTER_PERSONALITY_DREAMYNAME,Dreamy,Rêveur
+CHARACTER_PERSONALITY_DREAMYDESC,Rare chance to output nothing.,Petite chance de produire rien.
+CHARACTER_PERSONALITY_CARELESSNAME,Careless,Négligent
+CHARACTER_PERSONALITY_CARELESSDESC,More chance to output bugs during any production output.,Plus de chance de produire plus de bugs durant sa production.
+CHARACTER_PERSONALITY_SLEEPERNAME,Sleeper,Endormi
+CHARACTER_PERSONALITY_SLEEPERDESC,Needs a bit more sleep than a regular person.,A besoin de plus de someil.
+CHARACTER_PERSONALITY_LAZYNAME,Lazy,Paresseux
+CHARACTER_PERSONALITY_LAZYDESC,Takes more breaks.,Prend plus de pauses.
+CHARACTER_PERSONALITY_TOLERANTNAME,Tolerant,Tolérant
+CHARACTER_PERSONALITY_TOLERANTDESC,Gets less energy from drinks.,Reçois moins d'énergie des boissons.

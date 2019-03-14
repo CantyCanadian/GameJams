@@ -1,0 +1,81 @@
+ID,ENGLISH,FRENCH
+GAMEPLAY_ALL_APPLY,Apply,Appliquer
+GAMEPLAY_ALL_BACK,Back,Retour
+GAMEPLAY_ALL_NEXT,Next,Suivant
+GAMEPLAY_COLLEGELEAGUE,College League Jams,Ligue de Jams Collègial
+GAMEPLAY_COLLEGELEAGUE_ANDJAMDESC,Jam organised by a programming brotherhood. Wants to see the best written code.,Jam organisé par une fraternitée de programmeurs. S'attendent à du code de qualité.
+GAMEPLAY_COLLEGELEAGUE_ANDJAMNAME,Alpha Nu Delta Brotherhood Jam,Jam de la Fraternitée Alpha Nu Delta
+GAMEPLAY_COLLEGELEAGUE_ARTSCHOOLDESC,Jam hosted by a neighboring college's art program. Wants to discover new art styles.,Jam organisé par les profs d'art du collège voisin. Veulent voir des styles artistiques originaux.
+GAMEPLAY_COLLEGELEAGUE_ARTSCHOOLNAME,Art Show Jam,Jam de la Classe Artistique
+GAMEPLAY_COLLEGELEAGUE_BEATZDESC,Jam sponsored by a popular headphone brand. Music is key for your game.,Jam sponsorisé par une marque d'écouteur populaire. La musique est importante pour votre jeu.
+GAMEPLAY_COLLEGELEAGUE_BEATZNAME,The Beatz Jam,Jam Les Beatz
+GAMEPLAY_COLLEGELEAGUE_TRICOLLEGEDESC,Prestigious college Jam inside the league. Bring your best team.,Jam prestigieux dans la ligue des collèges. Apportez votre meilleure équipe.
+GAMEPLAY_COLLEGELEAGUE_TRICOLLEGENAME,Tri-College Jam,Jam Triple-Collège
+GAMEPLAY_GLOBALJAM,Global Jams,Jams Globaux
+GAMEPLAY_GLOBALJAM_GLOBALJAMDESC,International jam participated by devs around the world. Use this time to improve yourself.,Jam international qui contient des devs d'autour du monde. Utilisez ce temps pour vous améliorer.
+GAMEPLAY_GLOBALJAM_GLOBALJAMNAME,Ultimate Global Jam,Jam Ultime Global
+GAMEPLAY_GLOBALJAM_METAJAMDESC,Jam posted on a popular online game storefront. The goal is to have fun and to learn.,Jam posté sur un site de vente de jeux populaire. Le but est de s'amuser!
+GAMEPLAY_GLOBALJAM_METAJAMNAME,Itch.IO Meta Jam,Jam Meta Itch.IO
+GAMEPLAY_ITEM_ADOUGHBEELICENCE,The same software used by most AAA companies. Increases productivity for art.,Le même programme utilisé par les grandes compagnies. Augmente la productivité pour les artistes.
+GAMEPLAY_ITEM_CHIPS,"An airtight bag of processed potatoes, drowned in hydrogen and cheap salt. Slightly reduces hunger.","Des patates super salé, noyé dans de l'hydrogène dans un sac scèllé. Réduit un peu la faim."
+GAMEPLAY_ITEM_CHIPSPACK,A cardboard box containing 3 bags of chips for a much lower price.,Une boite de carton contenant 3 sac de croustiles pour moins cher.
+GAMEPLAY_ITEM_COFFEE,A bag of powdered coffee made to produce 12 cups. Must own a coffee machine to use.,Un sac de poudre à café qui peux produire jusqu'à 12 tasses. Nécessite une machine à café.
+GAMEPLAY_ITEM_COFFEEMACHINE,"Small, quick and efficient. Most of all, pretty cheap. Allows you to make coffee, a much cheaper alternative to energy drinks.","Petit, rapide et efficace. Mais, le plus important, le petit prix. Permet de faire du café, un breuvage moins cher que les boissons énergisantes."
+GAMEPLAY_ITEM_DESKTOPUPGRADE,What part is it upgrading? That's not important. Increases general productivity.,C'est quoi la pièce? Pas important. Augmente la productivité.
+GAMEPLAY_ITEM_DRAWINGTABLET,One of the best branded tablet with all the bells and whistles. Increases productivity for art.,Une des meilleures marques et avec tous les bonus. Augmente la productivité pour les artistes.
+GAMEPLAY_ITEM_ENERGYDRINK,"The cheapest off the shelves. So cheap it doesn't even have a brand. Removes some fatigue, increases the rate of fatigue.",Le moins cher sur l'étagère. Si peu dispendieux qu'il n'y a pas de marque sur la bouteille. Enlève de la fatigue mais augmente la vitesse de fatigue.
+GAMEPLAY_ITEM_ENERGYDRINKPACK,"Six times the cans, much lower price. Gives you six cans of energy drinks.",Six bouteilles pour moins cher. Donne six bouteilles de boissons énergisantes.
+GAMEPLAY_ITEM_EXTRALAPTOP,"Twice the tech, twice the production. Increases general productivity.","Deux ordis, double production. Augmente la productivité en général."
+GAMEPLAY_ITEM_GRANOLABOX,"An healthier option for snacks compared to the classic bag of chips. However, the price reflects the quality. Slightly reduces hunger and rate of hunger.",Une option plus santé comparé à des croustilles. Mais le prix réflète la qualité. Réduit un peu la faim et la vitesse de réduction de la faim.
+GAMEPLAY_ITEM_MECHANICALKEYBOARD,Comfortable with just the right loudness. Increases productivity for programming and debugging.,Confortable et de qualité. Augmente la productivité pour le programmage et débuggage.
+GAMEPLAY_ITEM_MIDIKEYBOARD,"Sometimes, it just feels better to use the right tool for the job. Increases productivity for music.","Parfois, c'est mieux d'utiliser le bon outil pour le bon travail. Augmente la productivité pour la dev audio."
+GAMEPLAY_ITEM_NGINLICENSE,Top of the line game engine license. Increases productivity for programming and debugging.,Engin de jeu de qualité. Augmente la productivité pour le programmage et débuggage.
+GAMEPLAY_ITEM_POP,A bitter-sweet taste of comfort and high fructose corn syrup. Slightly increases energy and morale.,Un breuvage sucré et amer qui goute le comfort et le sirop de maïs. Augmente un peu l'énergie et le morale.
+GAMEPLAY_ITEM_POPPACK,"What's better than a bottle of pop? Well, 6 bottles is a good start.","C'est quoi qui est meilleur qu'un soda? Et bien, 6 bouteilles est une bonne réponse."
+GAMEPLAY_ITEM_SPORTSDRINK,"Sweet water filled with tons of minerals. Jamming is totally a sport, right? Slightly lowers rate of fatigue and rate of hunger.",Eau sucré avec des minéraux dilués. Faire des jams est totallement un sport. Baisse un peu la vitesse de fatigue et de faim.
+GAMEPLAY_ITEM_THEBEATZLICENSE,Considered the undisputed champion for music edition. Increases productivity for music.,Considéré comme la crème de la crème des programmes d'édition audio. Augmente la productivité pour le dev audio.
+GAMEPLAY_ITEM_UPS,A big and heavy box containing lots of batteries. Grants immunity to power shortage.,Une grosse boite lourde contenant beaucoup de batteries. Donne immunité contre les pannes de courant.
+GAMEPLAY_JAMSELECT_ATTEMPTS,Attempts : ,Tentatives : 
+GAMEPLAY_JAMSELECT_AWARDPRIZES,Will award door prizes!,Va tirer des prix de participations!
+GAMEPLAY_JAMSELECT_DIFFICULTY,Difficulty,Difficulté
+GAMEPLAY_JAMSELECT_FIRST,1st : ,1ier : 
+GAMEPLAY_JAMSELECT_SECOND,2nd : ,2iem : 
+GAMEPLAY_JAMSELECT_TEAMS,Teams : ,Équipes : 
+GAMEPLAY_JAMSELECT_THIRD,3rd : ,3iem : 
+GAMEPLAY_JAMSELECT_THISONE,This one,Celui-ci
+GAMEPLAY_JAMSELECT_WINS,Wins : ,Victoires : 
+GAMEPLAY_LOADGAME_JAMSPLAYED,Jams Played : ,Jams Joué : 
+GAMEPLAY_LOADGAME_JAMSWON,Jams Won : ,Jams Gagné : 
+GAMEPLAY_LOADGAME_LOAD,Load Save,Charger Sauve.
+GAMEPLAY_LOADGAME_MONEY,Money : ,Argent : 
+GAMEPLAY_LOCALJAM,Local Jams,Jams Locaux
+GAMEPLAY_LOCALJAM_COLLEGEJAMDESC,Jam composed of various students. Requires balanced quality.,Jam composé d'étudiants. Le jeu final doit être de qualité.
+GAMEPLAY_LOCALJAM_COLLEGEJAMNAME,Local College Jam,Jam Collègial Local
+GAMEPLAY_LOCALJAM_MONTHLYARTJAMDESC,Jam favored by local artists. Mainly looks at a game's asthetics.,Jam populaire pour les artistes. Regardent principalement l'apparence du jeu.
+GAMEPLAY_LOCALJAM_MONTHLYARTJAMNAME,Monthly Art Jam,Jam Artistique du Mois
+GAMEPLAY_LOCALJAM_NGINJAMDESC,Jam sponsored by a leading game engine company. Encourages great programming.,Jam sponsorisé par la compagnie derrière l'engin de jeu le plus populaire. Veulent voir du beau code.
+GAMEPLAY_LOCALJAM_NGINJAMNAME,Ngin Jam,Jam Ngin
+GAMEPLAY_MAINMENU_EXITGAME,Exit Game,Quitter
+GAMEPLAY_MAINMENU_LOADGAME,Load Game,Charger Partie
+GAMEPLAY_MAINMENU_NEWGAME,New Game,Nouvelle Partie
+GAMEPLAY_MAINMENU_SETTINGS,Settings,Paramètres
+GAMEPLAY_MALMART_GROCERY,Grocery,Épicerie
+GAMEPLAY_MALMART_HARDWARE,Hardware,Appareils
+GAMEPLAY_MALMART_SOFTWARE,Software,Programmes
+GAMEPLAY_MALMART_WELCOME,Welcome to Mal-Mart!,Bienvenue au Mal-Mart!
+GAMEPLAY_NEWGAME_INPUTNAME,Input name here...,Écrile le nom ici...
+GAMEPLAY_NEWGAME_LETSGO,Let's go!,Allons-y!
+GAMEPLAY_NEWGAME_NEWGAME,NEW GAME,NOUVELLE PARTIE
+GAMEPLAY_NEWGAME_PLEASENAME,Please name your save file :,Veuillez donner un nom à votre partie :
+GAMEPLAY_SETTINGS_LANGUAGE,Language :,Langue :
+GAMEPLAY_SETTINGS_LANGUAGEWARNING,"To apply language changes, please restart the game.","Pour appliquer le changement de langue, veuillez repartir le jeu."
+GAMEPLAY_SETTINGS_RESOLUTION,Resolution :,Résolution :
+GAMEPLAY_SPLASH_CANTYCANADIAN,A{n}CANTYCANADIAN{n}GAME,UN JEU{n}CANTYCANADIAN
+GAMEPLAY_TEAMSELECT_ASSEMBLE,Assemble your Team,Assemblez votre Équipe
+GAMEPLAY_PROFILE_PROGRAMMING,Programming : ,Programmage : 
+GAMEPLAY_PROFILE_DEBUGGING,Debugging : ,Débuggage : 
+GAMEPLAY_PROFILE_CREATIVITY,Creativity : ,Créativité : 
+GAMEPLAY_PROFILE_ART,Art : ,Art : 
+GAMEPLAY_PROFILE_MUSIC,Music : ,Musique : 
+GAMEPLAY_PROFILE_BUGCHANCE,Bug Chance : ,Chance de Bug : 
+GAMEPLAY_TEAMSELECT_OPENPROFILES,Open Profiles,Ouvrir les Profils
